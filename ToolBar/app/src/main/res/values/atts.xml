@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="tb">
+        <attr name="c_leftWidth"              format="dimension" />
+        <attr name="c_rightWidth"             format="dimension" />
+
+        <attr name="c_left_text"              format="string" />
+        <attr name="c_left_text_TextSize"     format="dimension" />
+        <attr name="c_left_text_Background"   format="reference|color" />
+        <attr name="c_left_text_TextColor"    format="reference|color" />
+
+        <attr name="c_center_text"            format="string" />
+        <attr name="c_center_text_TextSize"   format="dimension" />
+        <attr name="c_center_text_Background" format="reference|color" />
+        <attr name="c_center_text_TextColor"  format="reference|color" />
+
+        <attr name="c_right_text"             format="string" />
+        <attr name="c_right_text_TextSize"    format="dimension" />
+        <attr name="c_right_text_Background"  format="reference|color" />
+        <attr name="c_right_text_TextColor"   format="reference|color" />
+    </declare-styleable>
+
+</resources>
